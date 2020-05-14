@@ -240,9 +240,9 @@ def banner():
     
     clr()
     logo="""                     
-  BRAKE BRAKE BRAKE         
-                             BRAKE BRAKE BRAKE            """
-    print(random.choice(colors)+logo+W)
+  BRAKE BRAKE    BRAKE    BRAKE   BRAKE BRAKE BRAKE BRAKE
+               BRAKE      BRAKE    BRAKE   BRAKE BRAKE BRAKE BRAKE            """
+    print(red(color)+logo+W)
     print("\n")
 
 
