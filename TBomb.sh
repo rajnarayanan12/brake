@@ -1,8 +1,8 @@
 #!/bin/bash
 clear
-echo -e "\e[4;31m SpeedX Productions !!! \e[0m"
+echo -e "\e[4;31m techboys presents !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
-echo -e "\e[1;32m TBomb \e[0m"
+echo -e "\e[1;32m brake \e[0m"
 echo "Press Enter To Continue"
 read a1
 if [[ -s update.speedx ]];then
@@ -77,7 +77,7 @@ exit
 elif [ $ch -eq 4 ];then
 clear
 echo -e "\e[1;33m"
-figlet TBomb
+figlet brake
 echo -e "\e[1;34mCreated By \e[1;34m"
 toilet -f mono12 -F border SpeedX
 echo  " "
@@ -115,7 +115,7 @@ clear
 elif [ $ch -eq 5 ];then
 clear
 echo -e "\e[1;31m"
-figlet TBomb
+figlet brake
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border SpeedX
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
