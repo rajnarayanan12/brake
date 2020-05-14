@@ -1,4 +1,4 @@
-<h1 align="center">TBomb v1.7b</h1>
+<h1 align="center">Brake</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 ## Note:
@@ -102,37 +102,4 @@ sudo bash TBomb.sh
 ## Demontrative Video:
 
 - Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a><br>
-- Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a><br>
-
-## CONTRIBUTORS:
-
-- **SpeedX**<br>
-[-] Mail At: ggspeedx29@gmail.com
-
-- **DarkestEntropy**<br>
-[-] Check At: https://github.com/darkestentropy
-
-- **The Black Hacker Roxstar**<br>
-
-- **Rieltar**<br>
-[-] Ping At: https://t.me/RieltarReborn
-
-- **0n1cOn3 (Stefan)**<br>
-[-] Mail At: 0n1cOn3@gmx.ch
-
-## Donators:
-
-**[@] 34D30Y ( 34db0y@protonmail.com  )**
-
-**[@] SC AMAN**
-
-# CONTACT ME:
-
-Feel Free To Open An Issue...
-
-```
-                 Mail: ggspeedx29@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/GyanaTech
-```
-
-<a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
+- Watch International Bombing Method <a href="htt
