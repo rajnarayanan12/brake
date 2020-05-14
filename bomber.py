@@ -239,16 +239,9 @@ def clr():
 def banner():
     
     clr()
-    logo="""                                                  
-   ████████ ██████                 ██             
-   ▒▒▒██▒▒▒ ██▒▒▒██                ██             
-      ██    ██   ██  ████  ██   ██ ██             
-      ██    ██████▒ ██▒▒██ ███ ███ █████          
-      ██    ██▒▒▒██ ██  ██ ██▒█▒██ ██▒▒██         
-      ██    ██   ██ ██  ██ ██ ▒ ██ ██  ██         
-      ██    ██████▒ ▒████▒ ██   ██ █████▒         
-      ▒▒    ▒▒▒▒▒▒   ▒▒▒▒  ▒▒   ▒▒ ▒▒▒▒▒          
-                                         """
+    logo="""                     
+  BRAKE BRAKE BRAKE         
+                             BRAKE BRAKE BRAKE            """
     print(random.choice(colors)+logo+W)
     print("\n")
 
@@ -353,29 +346,7 @@ def getapi(pn,lim,cc):
           'csrf': '523bc3fa1857c4df95e4d24bbd36c61b'
         }
 
-        response = requests.post('https://www.heromotocorp.com/en-in/xpulse200/ajax_data.php', headers=headers, cookies=cookies, data=data)
-
-        return response.status_code==200
-    elif lim == 5:
-        cookies = {
-            'Cookie:_ga': 'GA1.2.1483885314.1559157646',
-            '_fbp': 'fb.1.1559157647161.1989205138',
-            'TiPMix': '91.9909185226964',
-            'gcb_t_track': 'SEO - Google',
-            'gcb_t_keyword': '',
-            'gcb_t_l_url': 'https://www.google.com/',
-            'gcb_utm_medium': '',
-            'gcb_utm_campaign': '',
-            'ASP.NET_SessionId': 'ioqkek5lbgvldlq4i3cmijcs',
-            'web_app_landing_utm_source': '',
-            'web_app_landing_url': '/personal-loan',
-            'webapp_landing_referral_url': 'https://www.google.com/',
-            'ARRAffinity': '747e0c2664f5cb6179583963d834f4899eee9f6c8dcc773fc05ce45fa06b2417',
-            '_gid': 'GA1.2.969623705.1560660444',
-            '_gat': '1',
-            'current_url': 'https://indialends.com/personal-loan',
-            'cookies_plbt': '0',
-        }
+        response = requests.post('https://www.heromotocorp.com/e
 
         headers = {
             'Host': 'indialends.com',
